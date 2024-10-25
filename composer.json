@@ -1,0 +1,16 @@
+{
+    "name": "caiorcoutinho/peagape",
+    "description": "Crud de produtos",
+    "autoload": {
+        "psr-4": {
+            "Caiorcoutinho\\Peagape\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caio Ricardo Santos",
+            "email": "caiorcoutinho16@gmail.com"
+        }
+    ],
+    "require": {}
+}
